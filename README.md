@@ -4,4 +4,4 @@ This repository provides insight into how to calibrate a webcam using an 8x8 che
 
 ## Testing
 
-Sample images are provided. To test the code, run $Cam_Calib.py$ and point it to an unzipped $calib_pics$ folder. For a more in depth explanation, follow along with $Camera_Calibration_Manual.pdf$. 
+Sample images are provided. To test the code, run Cam_Calib.py and point it to an unzipped calib_pics folder. For a more in depth explanation, follow along with Camera_Calibration_Manual.pdf. 
